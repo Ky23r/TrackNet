@@ -1,0 +1,6 @@
+numpy
+opencv_python
+pandas
+scipy
+torch
+tqdm
