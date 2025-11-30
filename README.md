@@ -35,7 +35,6 @@ pip install -r requirements.txt
 The dataset contains 19,835 labeled frames from 10 broadcast videos
 
 - **Resolution**: 1280×720
-- **FPS**: 30
 - **Format**: RGB images + CSV labels
 
 **Download**: [Google Drive](https://drive.google.com/file/d/1f74hu1F5Ipn8SshPkxK_1wO36f_DkqM-/view?usp=sharing)
@@ -156,3 +155,4 @@ A pretrained model is available for quick testing without training from scratch.
 **⭐ Star this repo if you find it useful!**
 
 </div>
+
