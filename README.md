@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🎯 Overview
 
 TrackNet is a deep learning architecture designed to track small, fast-moving objects (like tennis balls) in broadcast sports videos. The model processes **3 consecutive frames** to learn both object detection and trajectory patterns, outputting a Gaussian heatmap for precise ball localization.
@@ -153,11 +151,8 @@ A pretrained model is available for quick testing without training from scratch.
   <img src="assets/demo.gif" alt="TrackNet Architecture" width="700"/>
 </div>
 
----
-
 <div align="center">
 
 **⭐ Star this repo if you find it useful!**
 
 </div>
-
