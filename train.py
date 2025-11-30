@@ -12,11 +12,11 @@ from utils import train_epoch, validate
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--batch-size", type=int, default=4)
+    parser.add_argument("--batch-size", type=int, default=2)
     parser.add_argument("--epochs", type=int, default=200)
     parser.add_argument("--lr", type=float, default=1.0)
     parser.add_argument("--exp", type=str, default="default")
-    parser.add_argument("--val-interval", type=int, default=1)
+    parser.add_argument("--val-interval", type=int, default=5)
     parser.add_argument("--steps", type=int, default=200)
     parser.add_argument("--workers", type=int, default=1)
     return parser.parse_args()
@@ -76,3 +76,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
