@@ -4,7 +4,7 @@
 
 **A Deep Learning Network for Tracking High-speed and Tiny Objects in Sports Applications**
 
-[Paper](https://arxiv.org/abs/1907.03698) • [Dataset](https://drive.google.com/file/d/1f74hu1F5Ipn8SshPkxK_1wO36f_DkqM-/view?usp=sharing) • [Pretrained Model](https://drive.google.com/file/d/1Rv2NpVwSoPpSq5HKSFyRASW0tUbLqamG/view?usp=sharing)
+[Paper](https://arxiv.org/abs/1907.03698) | [Dataset](https://drive.google.com/file/d/1f74hu1F5Ipn8SshPkxK_1wO36f_DkqM-/view?usp=sharing) | [Pretrained Model](https://drive.google.com/file/d/1Rv2NpVwSoPpSq5HKSFyRASW0tUbLqamG/view?usp=sharing)
 
 </div>
 
@@ -159,6 +159,7 @@ A pretrained model is available for quick testing without training from scratch.
 **⭐ Star this repo if you find it useful!**
 
 </div>
+
 
 
 
