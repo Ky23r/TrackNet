@@ -15,7 +15,7 @@ TrackNet is a deep learning architecture designed to track small, fast-moving ob
 ### Model Architecture
 
 <div align="center">
-  <img src="assets/tracknet_arch.png" alt="TrackNet Architecture" width="700"/>
+  <img src="assets/tracknet_arch.png" alt="TrackNet Architecture"/>
 </div>
 
 ## 📦 Installation
@@ -147,7 +147,7 @@ A pretrained model is available for quick testing without training from scratch.
 ## 🎬 Demo
 
 <div align="center">
-  <img src="assets/demo.gif" alt="TrackNet Architecture" width="700"/>
+  <img src="assets/demo.gif" alt="TrackNet Architecture"/>
 </div>
 
 <div align="center">
@@ -155,4 +155,5 @@ A pretrained model is available for quick testing without training from scratch.
 **⭐ Star this repo if you find it useful!**
 
 </div>
+
 
