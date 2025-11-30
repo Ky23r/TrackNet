@@ -107,7 +107,7 @@ data/
 ```bash
 python train.py \
     --exp my_exp \
-    --batch-size 8 \
+    --batch-size 4 \
     --epochs 200 \
     --lr 1.0 \
     --workers 4
@@ -170,3 +170,4 @@ A pretrained model is available for quick testing without training from scratch.
 **⭐ Star this repo if you find it useful!**
 
 </div>
+
