@@ -1,0 +1,60 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Model weights and checkpoints (large binary files, downloaded separately)
+*.pt
+*.pth
+*.ckpt
+
+# Experiment outputs (generated during training)
+exps/
+
+# Pretrained weights (downloaded separately from Google Drive)
+pretrained/
+
+# Training log files (generated at runtime)
+logs/
+
+# Dataset images and generated heatmaps (large, downloaded separately)
+data/images/
+data/gts/
+
+# Generated CSV splits (reproducible via preprocess.py)
+data/*.csv
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.mkv
+input_videos/
+output_videos/
+
+# Misc
+*.log
+*.tmp
+*.temp
